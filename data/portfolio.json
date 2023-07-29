@@ -24,7 +24,7 @@
     {
       "id": "1",
       "title": "Giant Eagle",
-      "description": "React + graphQL",
+      "description": "React + graphQL + TypeScript",
       "imageSrc": "/images/shop-giant-eagle.png",
       "url1": {
         "title": "Production",
