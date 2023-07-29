@@ -22,14 +22,6 @@ const Resume = () => {
   }, []);
   return (
     <>
-      {process.env.NODE_ENV === "development" && (
-        <div className="fixed bottom-6 right-6">
-          <Button onClick={() => router.push("/edit")} type={"primary"}>
-            Edit Resume
-          </Button>
-        </div>
-      )}
-
       <div className="container mx-auto mb-10">
         <Header isBlog />
         {mount && (
@@ -43,6 +35,11 @@ const Resume = () => {
               <h2 className="text-xl mt-5">{resume.tagline}</h2>
               <h2 className="w-4/5 text-xl mt-5 opacity-50">
                 {resume.description}
+              </h2>
+              <h2 className="mt-3">
+                <a href="/images/resume.pdf" target="_blank" rel="noreferrer">
+                  PDF Resume
+                </a>
               </h2>
               <div className="mt-2">
                 <Socials />
