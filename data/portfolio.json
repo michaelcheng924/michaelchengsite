@@ -1,1 +1,187 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+  "name": "Michael Cheng",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Michael Cheng - Senior",
+  "headerTaglineThree": "Software Engineer with",
+  "headerTaglineFour": "8+ years of experience.",
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/michaelcheng924"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/michaelcheng924/"
+    },
+    { "id": "5", "title": "Email", "link": "mailto:cheng.c.michael@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Giant Eagle",
+      "description": "React + graphQL",
+      "imageSrc": "/images/shop-giant-eagle.png",
+      "url1": {
+        "title": "Production",
+        "url": "https://shop.gianteagle.com"
+      },
+      "bullets": [
+        "Utilized React, graphQL, and Context to improve checkout performance and experience, implement Criteo third-party ads, and implement cookie consent",
+        "Migrated a large portion of codebase to TypeScript and improved code coverage"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "InVision",
+      "description": "React + TypeScript",
+      "imageSrc": "/images/invision.png",
+      "url1": {
+        "title": "InVision",
+        "url": "https://www.invisionapp.com/"
+      },
+      "bullets": [
+        "Utilized React, led projects, and worked with design to implement new features for real-time commenting and notifications",
+        "Utilized agile workflow to complete projects with greater efficiency and success"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Waste Management",
+      "description": "React + Redux",
+      "imageSrc": "/images/wm.png",
+      "url1": {
+        "title": "Production",
+        "url": "https://www.wm.com/"
+      },
+      "bullets": [
+        "Utilized React and Redux and led projects, such as re-writing the main search component on the main page of wm.com and improving the e-commerce checkout experience"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "CS Disco",
+      "description": "React + Redux",
+      "imageSrc": "/images/csdisco.png",
+      "url1": {
+        "title": "CS Disco",
+        "url": "https://csdisco.com/"
+      },
+      "bullets": [
+        "Utilized React and Redux to build and maintain e-discovery features such as advanced search and document viewer"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "ReformedApp",
+      "description": "React Native App (Available on App Store and Google Play)",
+      "imageSrc": "/images/reformedapp-app-store.png",
+      "github": "https://github.com/michaelcheng924/reformedapp",
+      "url1": {
+        "title": "App Store",
+        "url": "https://apps.apple.com/us/app/reformedapp/id1457603662?platform=iphone"
+      },
+      "url2": {
+        "title": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.catechismsandmore&hl=en_US&gl=US"
+      },
+      "bullets": [
+        "17,000+ downloads",
+        "Tools for reading and memorizing confessions and catechisms"
+      ]
+    }
+  ],
+  "aboutpara": "I have been building web and mobile applications since 2015, and I absolutely love what I do! This website contains some of the highlights of what I have worked on over the years—a combination of work projects and personal projects.",
+  "resume": {
+    "tagline": "👋  I'm a Senior Software Engineer.",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "August 2022 - July 2023",
+        "position": "Giant Eagle | Senior Software Engineer",
+        "bullets": [
+          "Utilized React, graphQL, and Context to improve checkout performance and experience, implement Criteo third-party ads, and implement cookie consent",
+          "Migrated a large portion of codebase to TypeScript and improved code coverage"
+        ]
+      },
+      {
+        "id": "2",
+        "dates": "September 2021 - July 2022",
+        "position": "InVision | Senior Software Engineer",
+        "bullets": [
+          "Utilized React, led projects, and worked with design to implement new features for real-time commenting and notifications",
+          "Utilized agile workflow to complete projects with greater efficiency and success"
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "Feburary 2019 - September 2021",
+        "position": "Waste Management | Senior Software Engineer",
+        "bullets": [
+          "Utilized React and Redux and led projects, such as re-writing the main search component on the main page of wm.com and improving the e-commerce checkout experience"
+        ]
+      },
+      {
+        "id": "4",
+        "dates": "April 2018 - February 2019",
+        "position": "FlatIron School | Lead Software Engineering Instructor",
+        "bullets": [
+          "Wrote curriculum and delivered lectures on JavaScript, React, Redux, Node.js, Ruby, Ruby on Rails, databases (e.g., MongoDB, SQL, postgreSQL), testing, and more"
+        ]
+      },
+      {
+        "id": "5",
+        "dates": "June 2015 to April 2018",
+        "position": "CS Disco | Software Engineer",
+        "bullets": [
+          "Utilized React and Redux to build and maintain e-discovery features such as advanced search and document viewer"
+        ]
+      }
+    ],
+    "otherExperiences": [
+      {
+        "id": "1",
+        "dates": "2019 - present",
+        "position": "ReformedApp | React Native App on App Store and Google Play",
+        "bullets": [
+          "17,000+ downloads",
+          "Tools for reading and memorizing confessions and catechisms"
+        ]
+      },
+      {
+        "id": "2",
+        "position": "Learn Coding Tutorials | YouTube Channel",
+        "bullets": [
+          "<span>19,000+ subscribers - <a href=\"https://www.youtube.com/@learncodingtutorials6413\" target=\"_blank\">https://www.youtube.com/@learncodingtutorials6413</a></span>"
+        ]
+      },
+      {
+        "id": "3",
+        "dates": "2009 - 2015",
+        "position": "Certified Teaching",
+        "bullets": [
+          "Wrote curriculum and delivered lesson plans to hundreds of students"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "universityName": "Hack Reactor | Software Engineering Immersive",
+        "universityDate": "2015"
+      },
+      {
+        "universityName": "University of Illinois at Urbana-Champaign",
+        "universityDate": "2005-2009",
+        "universityPara": "English Major, Secondary Education Minor"
+      }
+    ],
+    "skills1": ["Javascript", "HTML5", "CSS", "MongoDB"],
+    "skills2": ["React", "Typescript", "Node.js/Express", "SQL"],
+    "skills3": ["graphQL/Apollo", "Redux", "Ruby/Ruby on Rails"]
+  }
+}
