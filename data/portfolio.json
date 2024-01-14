@@ -93,6 +93,16 @@
         "17,000+ downloads",
         "Tools for reading and memorizing confessions and catechisms"
       ]
+    },
+    {
+      "id": "6",
+      "title": "Bible Verses About...",
+      "description": "Lists of thousands of Bible Verses About topics",
+      "url1": {
+        "title": "Bible Verses About",
+        "url": "https://joyfulexile.com/bible-verses-about"
+      },
+      "bullets": ["Search engine optimization", "Thousands of visits per day"]
     }
   ],
   "aboutpara": "I have been building web and mobile applications since 2015, and I absolutely love what I do! This website contains some of the highlights of what I have worked on over the years—a combination of work projects and personal projects.",
